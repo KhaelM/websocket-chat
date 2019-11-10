@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "How to create basic websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KhaelM",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.30"
+  }
+}

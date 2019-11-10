@@ -1,0 +1,27 @@
+div {
+    margin-bottom: 10px;
+}
+
+#content {
+    background-color: #ddd;
+    width: 500px;
+    height: 160px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    overflow-y: scroll;
+}
+
+#message {
+    border-radius: 2px;
+    border: 1px solid #CCC;
+    padding: 5px;
+    width: 400px;
+    margin-top: 10px;
+}
+
+#span {
+    display: block;
+    float: left;
+}
+
+p { line-height:18px; }
